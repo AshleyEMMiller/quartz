@@ -367,6 +367,13 @@ body[data-slug="demo-days"] .article-header {
 }
 
 // Grid Settings via gatekeeper
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
 .grid-item {
   background-color: #2a2a2a;
   color: white;
