@@ -2,8 +2,6 @@
 title: 🕸️ Salutations
 ---
 
->[!smartie] Welcome to my corner of the interwebs
-
 <div class="grid-container">
 
 <a href="AllGatekeepers" class="grid-item type-1">
