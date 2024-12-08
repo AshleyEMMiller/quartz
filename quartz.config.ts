@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://ashleyemmiller.github.io/quartz/",
-    ignorePatterns: ["private", "templates", ".obsidian", "*.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "*.md", "content"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
