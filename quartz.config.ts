@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://ashleyemmiller.github.io/quartz/",
     ignorePatterns: ["private", "templates", ".obsidian", "*.md"],
     defaultDateType: "created",
     generateSocialImages: false,
