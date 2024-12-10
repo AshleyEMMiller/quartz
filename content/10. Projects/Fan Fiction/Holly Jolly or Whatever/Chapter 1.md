@@ -1,5 +1,5 @@
 ---
-{"title":"Part 1","publish":true,"tags":null,"Project":"[[Holly Jolly or Whatever]]","Order":"1","draft":false,"PublishDate":"2024-12-12","PassFrontmatter":true,"created":"2024-12-06T12:51:01.538-04:00","updated":"2024-12-10T10:31:42.104-04:00"}
+{"title":"Part 1","publish":true,"tags":null,"Project":"[[Holly Jolly or Whatever]]","Order":"1","draft":false,"PublishDate":"2024-12-12","PassFrontmatter":true,"created":"2024-12-06T12:51:01.538-04:00","updated":"2024-12-10T10:45:22.262-04:00"}
 ---
 
 >[!info] Metadata
@@ -158,5 +158,6 @@ And was promptly hit with a wall of "don't want you here" social deception it ma
 
 Janus stuck around though. Because Roman was right, Secret Santa was something to be secretly won. And Janus would win. Patton would love his gift.
 
-<div style="display: flex; justify-content: right; cursor: pointer;"> <a href="[10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 1|Chapter 1]]" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Chapter 2 </button> </a> </div>
+<div style="display: flex; justify-content: right; cursor: pointer;"> <a href="[[10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 2\|Chapter 2]]" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Chapter 2 </button> </a> </div>
 
+<div style="display: flex; justify-content: right; cursor: pointer;"> <a href="[[10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 2\|10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 2]]" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Chapter 2 </button> </a> </div>
