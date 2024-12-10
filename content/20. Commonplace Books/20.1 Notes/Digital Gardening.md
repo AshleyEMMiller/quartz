@@ -1,5 +1,5 @@
 ---
-{"title":"Digital Gardening","publish":true,"tags":null,"draft":false,"PassFrontmatter":true,"created":"2024-12-06T12:51:01.529-04:00","updated":"2024-12-10T10:18:55.449-04:00"}
+{"title":"Digital Gardening","publish":true,"tags":null,"draft":false,"dg-publish":true,"PassFrontmatter":true,"created":"2024-12-06T12:51:01.529-04:00","updated":"2024-12-10T10:22:06.866-04:00"}
 ---
 
 

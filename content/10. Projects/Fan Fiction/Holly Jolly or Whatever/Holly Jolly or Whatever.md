@@ -1,8 +1,16 @@
 ---
-{"Project":"FanFic","Fandom":["Sanders Sides"],"publish":true,"title":"Holly Jolly or Whatever","draft":false,"PassFrontmatter":true,"created":"2024-12-06T12:51:01.537-04:00","updated":"2024-12-06T18:23:40.277-04:00"}
+{"Project":"FanFic","Fandom":["Sanders Sides"],"publish":true,"title":"Holly Jolly or Whatever","Description":"Janus learns the true meaning of Christmas -- competing for the best Secret Santa gift and arguing with family drama.","Characters":["Janus","Remus","Roman","Virgil","Thomas (character)"],"PassFrontmatter":true,"created":"2024-12-06T12:51:01.537-04:00","updated":"2024-12-10T10:34:10.199-04:00"}
 ---
 
-Janus learns the true meaning of Christmas -- competing for the best Secret Santa gift and arguing with family drama. 
+>[!iinfo] Metadata
+>Janus learns the true meaning of Christmas -- competing for the best Secret Santa gift and arguing with family drama.
+>**Character**: Janus,Remus,Roman,Virgil,Thomas (character)
 
-- [[10. Projects/Fan Fiction/Holly Jolly or Whatever/Part 1\|Part 1]]
+
+
+
+| File                                                                         | Published  |
+| ---------------------------------------------------------------------------- | ---------- |
+| [[10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 1\|Chapter 1]] | YYYY-00-12 |
+| [[10. Projects/Fan Fiction/Holly Jolly or Whatever/Chapter 2\|Chapter 2]] | YYYY-00-14 |
 
