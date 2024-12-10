@@ -1,5 +1,5 @@
 ---
-{"title":"Digital Gardening","publish":true,"tags":null,"draft":false,"PassFrontmatter":true,"created":"2024-12-06T12:51:01.529-04:00","updated":"2024-12-10T09:37:43.240-04:00"}
+{"title":"Digital Gardening","publish":true,"tags":null,"draft":false,"PassFrontmatter":true,"created":"2024-12-06T12:51:01.529-04:00","updated":"2024-12-10T10:16:06.702-04:00"}
 ---
 
 
@@ -44,7 +44,7 @@ One thing I disagree with is Le Cunff's idea of only migrating completed "evergr
 [^Le Cunff - Mind Gardening]: https://nesslabs.com/mind-garden
 
 ## My Approach Digital Gardening
-From my reading, people seem to either be in the "Publish everygreen notes only" or "these notes are an incomplete mess for myself" camp. I'd like to employ a hybrid of the two. Due to the tools I'm using to publish my Obsidian Vault, I'm going to publish each note, one at a time as I've had a chance to look it over. The notes may not be complete, but they will be coherent and have at least one finished thought to them. Since I have to select the notes to publish to the digital garden manually, it gives me a chance to tidy my notes up into something more polished and valuable to my future self. It will also help me unearth old notes that I've forgotten about. I'd like my notes to be valuable to other people, and since I'm more likely to do things for others than myself (accountability), then it will be useful for future me. 
+From my reading, people seem to either be in the "Publish evergreen notes only" or "these notes are an incomplete mess for myself" camp. I'd like to employ a hybrid of the two. Due to the tools I'm using to publish my Obsidian Vault, I'm going to publish my notes, one at a time as I've had a chance to look it over. The notes may not be complete, but they will be coherent and have at least one finished thought to them. Since I have to select the notes to publish to the digital garden manually, it gives me a chance to tidy my notes up into something more polished and valuable to my future self. It will also help me unearth old notes that I've forgotten about. I'd like my notes to be valuable to other people, and since I'm more likely to do things for others than myself (accountability), then it will be useful for future me. 
 
 I will have a collection of text notes, photos, Excalidraw visual notes, training logs and more. The wonderful thing about Obsidian is that Editing mode and Reading Mode look different and I can make comments. The comments can be inline and include things like action items or the specific name of a person who told me something (which I may not want to include in my public published notes). 
 
